@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./Components/Header/Header";
 import Carousel from "./Components/Carousel/Carousel";
 import Discover from "./Components/Discover/Discover";
+import Deals from "./Components/Deals/Deals";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <Header />
       <Carousel />
       <Discover />
+      <Deals />
     </div>
   );
 };

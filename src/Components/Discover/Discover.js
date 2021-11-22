@@ -2,7 +2,7 @@ import React from "react";
 
 const Discover = () => {
   return (
-    <div className="mt-60 flex ml-14 mb-7   ">
+    <div className="mt-60 flex justify-center items-center  mb-7">
       <div className="w-540 h-270 bg-gray-200 mx-6 relative">
         <div className="h-8 w-269 ml-9 mt-9  mb-2 ">
           <span className="text-2xl">Luxurious Eyewear </span>
