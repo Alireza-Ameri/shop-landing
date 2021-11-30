@@ -1,5 +1,3 @@
-import React from "react";
-
 const Discover = () => {
   return (
     <div className="mt-60 flex justify-center items-center  mb-7">

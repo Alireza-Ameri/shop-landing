@@ -1,5 +1,3 @@
-import React from "react";
-
 const Deals = () => {
   return (
     <div className="w-full flex justify-center items-center mt-32 mb-10 ">
@@ -66,7 +64,7 @@ const Deals = () => {
         </div>
         <div className="w-48 h-8 mt-1 ml-10 ">
           <span className="text-base text-gray-400 line-through">
-          Rp 1.280.000
+            Rp 1.280.000
           </span>
         </div>
         <div className="w-48 h-8 mt-1 ml-10 ">
